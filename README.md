@@ -47,9 +47,11 @@
       margin-top: 0;
     }
     .movie img {
-      width: 100%;
+      width: 300px;
       height: auto;
       border-radius: 6px;
+      display: block;
+      margin: 1em auto;
     }
     .movie a {
       color: #ffca28;
