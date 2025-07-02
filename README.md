@@ -82,10 +82,34 @@
 
   <div class="movie-section">
     <div class="movie">
-      <h2>孤注一掷</h2>
+      <h2>新乌托邦</h2>
       <p>根据真实诈骗案件改编，一位程序员误入骗局展开生死逃脱。</p>
       <img src="9e63167851e11983c6ec37c739810dfe.webp" alt="孤注一掷">
       <p><a href="https://32d.cc/index.php/vod/play/id/74219/sid/1/nid/1.html" target="_blank">▶ 点击立即观看</a></p>
+    </div>
+    <div class="movie">
+      <h2>消失的她</h2>
+      <p>丈夫举报妻子失踪，却意外揭开一场惊天阴谋。</p>
+      <img src="https://pic.imgdb.cn/item/64ae15691ddac507cc9e2b33.jpg" alt="消失的她">
+      <p><a href="https://32d.cc/index.php/vod/play/id/73716/sid/1/nid/1.html" target="_blank">▶ 点击立即观看</a></p>
+    </div>
+    <div class="movie">
+      <h2>热烈</h2>
+      <p>街舞与梦想交织，热血青年舞出自己的人生！</p>
+      <img src="https://pic.imgdb.cn/item/64ae14f31ddac507cc9e265a.jpg" alt="热烈">
+      <p><a href="https://32d.cc/index.php/vod/play/id/74079/sid/1/nid/1.html" target="_blank">▶ 点击立即观看</a></p>
+    </div>
+    <div class="movie">
+      <h2>雷霆特工队</h2>
+      <p>高能特工出击，挑战极限任务，拯救世界危机！</p>
+      <img src="https://pic.imgdb.cn/item/666f47bd681b3c4dcd19d186.jpg" alt="雷霆特工队">
+      <p><a href="https://32d.cc/index.php/vod/detail/id/80074.html" target="_blank">▶ 点击立即观看</a></p>
+    </div>
+    <div class="movie">
+      <h2>钢铁之心</h2>
+      <p>少女化身超级英雄，踏上热血救援之路！</p>
+      <img src="https://pic.imgdb.cn/item/666f47ff681b3c4dcd1a23f5.jpg" alt="钢铁之心">
+      <p><a href="https://32d.cc/index.php/vod/detail/id/79786.html" target="_blank">▶ 点击立即观看</a></p>
     </div>
   </div>
 
