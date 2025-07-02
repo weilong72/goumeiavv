@@ -82,7 +82,8 @@
     <div class="movie">
       <h2>孤注一掷</h2>
       <p>根据真实诈骗案件改编，一位程序员误入骗局展开生死逃脱。</p>
-      <img src="https://inews.gtimg.com/newsapp_bt/0/15129494737/1000" alt="孤注一掷">
+      <img src=<img src="9e63167851e11983c6ec37c739810dfe.webp" alt="孤注一掷">
+="孤注一掷">
       <p><a href="https://32d.cc/index.php/vod/play/id/74219/sid/1/nid/1.html" target="_blank">▶ 点击立即观看</a></p>
     </div>
   </div>
